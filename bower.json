@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "pages_theme_jquery-easy",
+  "version": "1.3.0",
+  "authors": [
+    "Christian <christian.parrita@gmail.com>"
+  ],
+  "main": "jquery-easy.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
